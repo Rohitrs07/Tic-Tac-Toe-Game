@@ -1,0 +1,1 @@
+A simple game which is totally based on HTML, CSS and JavaScript which is the next step for me to clears JavaScript's fundamental in the journey of Web Development Practice.
